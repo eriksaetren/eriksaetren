@@ -7,10 +7,11 @@ I haven't been great at uploading my projects here, but I'm trying to get better
 Recently I've been primarily focused on:
 <ul>
 <li>Angular + PrimeNg development</li>
+<li>dApp development</li>
 <li>Blockchain technology</li>
 <li>Pixel Art</li>
 <li>Web & UX design</li>
-<li>JavaScript</li>
+<li>JS / TS</li>
 </ul>
 
 <!---
